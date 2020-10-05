@@ -1,7 +1,8 @@
 # JavaBasicPrac
 Java Course with full detailed Explanation using cooments.
 
-## Programs with Newbie level to Intermediate level
+## Programs with Newbie level to Intermediate level 
+15 Question with different types 
 Clone it or Download zip file for getting started.
 
 ### IDES or Text editors can be used are VS code and Intellije.
