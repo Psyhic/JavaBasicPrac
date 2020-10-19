@@ -1,7 +1,7 @@
 package com.cu.SK;
 
 public class Dog{
-	//Mark 12
+	//Mark 12 Part
 	//01 - 06 - 2020
 	public String breed;
 	public int size;
