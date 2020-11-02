@@ -1,4 +1,4 @@
-# JavaBasicPrac
+# Java Basic Practical Question
 Java Course with full detailed Explanation using cooments.
 
 ## Programs with Basic level to Intermediate level 
